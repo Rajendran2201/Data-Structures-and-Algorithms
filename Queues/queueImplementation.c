@@ -3,7 +3,7 @@
 
 void enqueue(int x);
 int dequeue();
-int isEmpty();x 
+int isEmpty();
 int isFull();
 void display();
 int viewFront();
